@@ -1,0 +1,43 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    text-decoration: none;
+}
+
+#menu{
+    height:50px;
+    width:100%;
+    background-color: rgb(199, 174, 177);
+    position: relative;
+}
+#a1{
+    float: right;
+    margin-right: 50px;
+    margin-top: 15px;
+}
+#a2{
+    float: right;
+    margin-right: 60px;
+    margin-top: 15px;
+}
+#a3{
+    float: right;
+    margin-right: 70px;
+    margin-top: 15px;
+    
+}
+#a4{
+    float: right;
+    margin-right: 80px;
+    margin-top: 15px;
+}
+#a5{
+    float: right;
+    margin-right: 90px;
+    margin-top: 15px;
+}
+#a6{
+    float: right;
+    margin-right: 100px;
+    margin-top: 15px;
+}
